@@ -419,8 +419,6 @@ U.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_4_1
 Naccount-service/src/main/java/drissi/omar/accountservice/entities/Account.java,3\0\3031ee412bbc75079dc1b5cdee7f05618c5b1ca3
 ä
 Zaccount-service/src/main/java/drissi/omar/accountservice/repository/AccountRepository.java,1\3\13dfd4a834f53fd219c53587414da1f201edb1de
-á
-Waccount-service/src/main/java/drissi/omar/accountservice/AccountServiceApplication.java,a\6\a65301653cfdf5171463160dd993e0238b86c2c3
 å
 \account-service/src/test/java/drissi/omar/accountservice/AccountServiceApplicationTests.java,2\b\2b863597f9a751698af68ec518b0cbd3d6d3b214
 
@@ -449,8 +447,6 @@ F
 config-service/pom.xml,9\3\93d3996e8089bcf62c0f63dc8ae952567bec29ae
 H
 customer-service/pom.xml,5\8\5828c3b58c65a5dabc2340b48a37b3e92462b9b0
-I
-discovery-service/pom.xml,7\e\7e2a93dc15928a8ab4dff670d6d413b0a1b7e7b7
 G
 gateway-service/pom.xml,6\2\627bed90df51db9ce1f2c987c3ddc0380c236bae
 ç
