@@ -1,0 +1,24 @@
+eureka:
+  client:
+    register-with-eureka: false
+
+server:
+  port: 8222
+
+spring:
+  application:
+    name: gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: students
+          uri: http://localhost:8090
+          predicates:
+            - Path=/api/v1/customers/**
+        - id: schools
+          uri: http://localhost:8070
+          predicates:
+            - Path=/api/v1/accounts/**
