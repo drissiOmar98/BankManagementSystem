@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from drissi.omar.customerservice.repository -->
     </parent>
     <groupId>drissi.omar</groupId>
-    <artifactId>customer-service</artifactId>
+    <artifactId>customer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>customer-drissi.omar.customerservice.service</name>
-    <description>customer-drissi.omar.customerservice.service</description>
+    <name>customer</name>
+    <description>customer</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>

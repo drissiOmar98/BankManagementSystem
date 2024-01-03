@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from drissi.omar.customerservice.repository -->
     </parent>
     <groupId>drissi.omar</groupId>
-    <artifactId>config-drissi.omar.customerservice.service</artifactId>
+    <artifactId>config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>config-drissi.omar.customerservice.service</name>
-    <description>config-drissi.omar.customerservice.service</description>
+    <name>config-server</name>
+    <description>config-server</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>

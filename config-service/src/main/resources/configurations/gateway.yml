@@ -14,11 +14,12 @@ spring:
         locator:
           enabled: true
       routes:
-        - id: students
+        - id: customers
           uri: http://localhost:8090
           predicates:
             - Path=/api/v1/customers/**
-        - id: schools
+        - id: accounts
           uri: http://localhost:8070
           predicates:
             - Path=/api/v1/accounts/**
+

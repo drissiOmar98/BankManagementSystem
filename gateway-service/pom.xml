@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from drissi.omar.customerservice.repository -->
     </parent>
     <groupId>drissi.omar</groupId>
-    <artifactId>gateway-drissi.omar.customerservice.service</artifactId>
+    <artifactId>gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gateway-drissi.omar.customerservice.service</name>
-    <description>gateway-drissi.omar.customerservice.service</description>
+    <name>gateway</name>
+    <description>gateway</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
@@ -28,7 +28,7 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-gateway-mvc</artifactId>
+            <artifactId>spring-cloud-starter-gateway</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
