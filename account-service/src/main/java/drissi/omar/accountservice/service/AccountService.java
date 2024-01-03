@@ -24,7 +24,12 @@ public class AccountService {
     }
 
     public List<Account> findAllAccounts() {
-        return accountRepository.findAll();
+
+        List<Account> accounts= accountRepository.findAll();
+        accounts.forEach(account -> {
+            account.setCustomer(customerRestClient.findCustomerById(account.getCustomerId()));
+        });
+        return accounts;
     }
 
     public Account getAccountById(String accountId){
