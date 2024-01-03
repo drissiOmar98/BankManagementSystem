@@ -421,12 +421,8 @@ Zaccount-service/src/main/java/drissi/omar/accountservice/repository/AccountRepo
 \account-service/src/test/java/drissi/omar/accountservice/AccountServiceApplicationTests.java,2\b\2b863597f9a751698af68ec518b0cbd3d6d3b214
 â
 Yconfig-service/src/test/java/drissi/omar/configservice/ConfigServiceApplicationTests.java,9\5\9548cd990642d5af82d60ad63320b2197107a9ea
-|
-Laccount-service/src/main/java/drissi/omar/accountservice/model/Customer.java,c\2\c2b3b0821763c1d9d30bcd1a4da53cfdf723af22
 ç
 ]customer-service/src/main/java/drissi/omar/customerservice/repository/CustomerRepository.java,5\e\5e172ac26d7954ddf13a9b77af7e320ba278f972
-ä
-Zcustomer-service/src/main/java/drissi/omar/customerservice/CustomerServiceApplication.java,a\c\ac16332a5f49a5a72744b098c37e89557a191f1b
 è
 _customer-service/src/test/java/drissi/omar/customerservice/CustomerServiceApplicationTests.java,6\e\6e61eb0d288cf29162cd0bcd0dd73e9d90393330
 í
@@ -437,8 +433,6 @@ bdiscovery-service/src/test/java/drissi/omar/discoveryservice/DiscoveryServiceAp
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ç
 ]discovery-service/src/main/java/drissi/omar/discoveryservice/DiscoveryServiceApplication.java,9\f\9ff5d52b61c0e3fe57d34348899e211ed51c8599
-~
-Naccount-service/src/main/java/drissi/omar/accountservice/entities/Account.java,3\0\3031ee412bbc75079dc1b5cdee7f05618c5b1ca3
 á
 Wcustomer-service/src/main/java/drissi/omar/customerservice/service/CustomerService.java,4\6\464ce64a937ad6847c5c24bb8783e18b29398201
 Ñ

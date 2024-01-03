@@ -32,7 +32,7 @@ public class AccountController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Account> accountById(@PathVariable String id){
+    public ResponseEntity<Account> accountById(@PathVariable("id") String id){
         return ResponseEntity.ok(accountService.getAccountById(id));
     }
 

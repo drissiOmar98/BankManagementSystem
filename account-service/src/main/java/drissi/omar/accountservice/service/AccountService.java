@@ -28,7 +28,8 @@ public class AccountService {
     }
 
     public Account getAccountById(String accountId){
-        Account account= accountRepository.findById(accountId).get();
+        Account account= accountRepository.findById(accountId).orElse(null);
+        assert account != null;
         Customer customer= customerRestClient.findCustomerById(account.getCustomerId());
         account.setCustomer(customer);
         return account;
