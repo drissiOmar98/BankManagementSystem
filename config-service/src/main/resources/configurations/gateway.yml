@@ -23,3 +23,7 @@ spring:
           predicates:
             - Path=/api/v1/accounts/**
 
+management:
+  tracing:
+    sampling:
+      probability: 1.0

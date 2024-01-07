@@ -26,3 +26,8 @@ application:
   config:
     customers-url: http://localhost:8222/api/v1/customers
 
+managdment:
+  tracing:
+    sampling:
+      probability: 1.0
+

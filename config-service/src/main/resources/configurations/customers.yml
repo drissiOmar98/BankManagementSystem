@@ -22,3 +22,8 @@ spring:
       ddl-auto: create
     database: mysql
     database-platform: org.hibernate.dialect.MySQL8Dialect
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0
