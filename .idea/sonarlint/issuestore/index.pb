@@ -1,14 +1,4 @@
 
-H
-customer-service/HELP.md,b\7\b7b6be155f7d433a38d23a4126951e01090591ea
-G
-gateway-service/HELP.md,a\a\aa2b361803409cecaa7e3f48cfb9104da5536ef5
-G
-account-service/HELP.md,d\5\d5fe07ef2fc2fceb688605d9c9a3857d565131ca
-I
-discovery-service/HELP.md,f\6\f629dd61303f91c6c4884e61a13f4053d6da70c0
-F
-config-service/HELP.md,4\7\4767b9b3f3d2edb08974a2e2cb0a1c33563c94b2
 z
 J.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml,2\7\27c7193598cab88fd8e472c45992193899a3c50f
 Ç
@@ -427,18 +417,12 @@ bdiscovery-service/src/test/java/drissi/omar/discoveryservice/DiscoveryServiceAp
 \gateway-service/src/test/java/drissi/omar/gatewayservice/GatewayServiceApplicationTests.java,5\1\51d862d91940bc162b02b0730e3109098dfc58e6
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-ç
-]discovery-service/src/main/java/drissi/omar/discoveryservice/DiscoveryServiceApplication.java,9\f\9ff5d52b61c0e3fe57d34348899e211ed51c8599
 á
 Wcustomer-service/src/main/java/drissi/omar/customerservice/service/CustomerService.java,4\6\464ce64a937ad6847c5c24bb8783e18b29398201
-Ñ
-Tconfig-service/src/main/java/drissi/omar/configservice/ConfigServiceApplication.java,9\e\9ef6a4f8c3cf10e3401cdfc422e26c5c7b4544c0
 
 Oaccount-service/src/main/java/drissi/omar/accountservice/enums/AccountType.java,2\8\289c55447d575fca4da1619802ddf3fdb60b939a
 á
 Wgateway-service/src/main/java/drissi/omar/gatewayservice/GatewayServiceApplication.java,4\3\4314e6f9ee156e3f339000bf5c411ac24b5e2950
-á
-Waccount-service/src/main/java/drissi/omar/accountservice/AccountServiceApplication.java,a\6\a65301653cfdf5171463160dd993e0238b86c2c3
 F
 config-service/pom.xml,9\3\93d3996e8089bcf62c0f63dc8ae952567bec29ae
 I
@@ -447,8 +431,6 @@ I
 Naccount-service/src/main/java/drissi/omar/accountservice/entities/Account.java,3\0\3031ee412bbc75079dc1b5cdee7f05618c5b1ca3
 |
 Laccount-service/src/main/java/drissi/omar/accountservice/model/Customer.java,c\2\c2b3b0821763c1d9d30bcd1a4da53cfdf723af22
-ä
-Zcustomer-service/src/main/java/drissi/omar/customerservice/CustomerServiceApplication.java,a\c\ac16332a5f49a5a72744b098c37e89557a191f1b
 Å
 Qcustomer-service/src/main/java/drissi/omar/customerservice/entities/Customer.java,4\c\4c87f04aaed41f41e0203fcc4b4a37bbf8de1056
 g
@@ -518,5 +500,3 @@ o
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-ç
-]customer-service/src/main/java/drissi/omar/customerservice/controller/CustomerController.java,2\8\28251a024197d03fbf0ae728889a85c51ef4bdc8
