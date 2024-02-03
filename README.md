@@ -25,6 +25,10 @@ MicroBankingServices is a cutting-edge project  designed to transform banking op
 ## 5. Configuration Service ⚙️
    - Develops a centralized Configuration Service.
    - Enables dynamic configuration management for all microservices, ensuring flexibility and scalability.
+## 6. Security  (OAuth2 OIDC with Keycloak) 🔒
+   - Integrates OAuth2 OIDC (OpenID Connect) for authentication and authorization.
+   - Utilizes Keycloak as the identity provider for secure access control.
+   - Implements token-based authentication to protect sensitive operations and resources.
 
 MicroBankingServices leverages the power of microservices to create a distributed, scalable, and efficient banking system. With Eureka Server for service discovery, Spring Cloud Gateway for efficient routing, and a centralized Configuration Service, the project aims to provide a seamless and dynamic banking experience.
 

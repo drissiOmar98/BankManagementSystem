@@ -415,8 +415,6 @@ _customer-service/src/test/java/drissi/omar/customerservice/CustomerServiceAppli
 bdiscovery-service/src/test/java/drissi/omar/discoveryservice/DiscoveryServiceApplicationTests.java,a\4\a44b95fca51e2f880891d233d081363e497256a1
 Œ
 \gateway-service/src/test/java/drissi/omar/gatewayservice/GatewayServiceApplicationTests.java,5\1\51d862d91940bc162b02b0730e3109098dfc58e6
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ‡
 Wcustomer-service/src/main/java/drissi/omar/customerservice/service/CustomerService.java,4\6\464ce64a937ad6847c5c24bb8783e18b29398201
 
